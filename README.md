@@ -1,2 +1,6 @@
 # hello-world
-Just checking this place to learn...
+
+Hi everybody,
+
+I'm Martin and this is my first encounter with the github.
+This is my first edit-message...
